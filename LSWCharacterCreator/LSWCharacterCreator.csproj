@@ -12,8 +12,8 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
-    <Version>1.0.0</Version>
-    <AssemblyVersion>1.0.*</AssemblyVersion>
+    <Version>1.1.0</Version>
+    <AssemblyVersion>1.1.*</AssemblyVersion>
     <Deterministic>false</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -26,8 +26,8 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
-    <Version>1.0.0</Version>
-    <AssemblyVersion>1.0.*</AssemblyVersion>
+    <Version>1.1.0</Version>
+    <AssemblyVersion>1.1.*</AssemblyVersion>
     <Deterministic>false</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -39,8 +39,8 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
-    <Version>1.0.0</Version>
-    <AssemblyVersion>1.0.*</AssemblyVersion>
+    <Version>1.1.0</Version>
+    <AssemblyVersion>1.1.*</AssemblyVersion>
     <Deterministic>false</Deterministic>
   </PropertyGroup>
   <ItemGroup>

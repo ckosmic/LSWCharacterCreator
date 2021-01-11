@@ -43,6 +43,7 @@ namespace LSWCharacterCreator
 			PopulateTreeView();
 			PopulateCharacterSfxInfo();
 			replacedSounds = new string[categories.Length];
+			comboBox1.SelectedIndex = 0;
 		}
 
 		public void PopulateCharacterSfxInfo() {
