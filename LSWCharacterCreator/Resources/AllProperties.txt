@@ -1,0 +1,139 @@
+name_id|Name ID|string
+icon|Icon|string
+
+baddie|Is A Baddie|bool
+goodie|Is A Goodie|bool
+bounty_hunter|Is A Bounty Hunter|bool
+droid|Is A Droid|bool
+is_a_girl|Is A Girl|bool
+ghost|Is A Ghost|bool
+untargetable|Is Untargetable|bool
+jedi|Is A Jedi|bool
+neutral|Is Neutral|bool
+
+zipup|Zipup|bool
+already_got_hat|Already Got Hat|bool
+orientate|Orientate|bool
+
+combat_roll|Can Combat Roll|bool
+choke|Can Force Choke|bool
+can_fire|Can Fire|bool
+can_open_doors|Can Open Doors|bool
+high_jump|Can High Jump|bool
+teleport|Can Teleport|bool
+can_flatten|Can Flatten|bool
+repair|Can Repair|bool
+lightning|Can Use Lightning|bool
+
+DontPush|Don't Push|bool
+no_jump|Can't Jump|bool
+no_force|Can't Use The Force|bool
+no_shoot|Can't Shoot|bool
+cannot_kill|Can't Kill|bool
+non_stick|Non-Stick|bool
+pod|Pod|bool
+complex_shadow|Has Complex Shadow|bool
+has_no_turn|Has No Turn|bool
+blaster|Has Blaster|bool
+jetpack|Has Jetpack|bool
+white_lightning|White Lightning|bool
+
+coin_value|Coin Value|string
+
+variant|Variant|dropdown|padme,anakin,pod,walker4legs,walker2legs,critter,battledroid,obiwankenobi,fett,wookiee,clone,hansolo,stormtrooper,jedistarfighterep3,hoverdroid,lando,luke,macewindu,tie,naboostarfighter,leia,rebel,republicgunship,weirdo
+
+//sfx_grunt|Grunt Sound|string
+//sfx_hurt|Hurt Sound|string
+//sfx_die|Death Sound|string
+//sfx_shoot|Shoot Sound|string
+//sfx_chatter|Chatter Sound|string
+//sfx_misc|Misc Sound|string
+//sfx_sabre|Saber Sound|string
+//sfx_footstep|Footstep Sound|string
+
+chatter_delay|Chatter Delay|string
+
+layers_special|Layers Special|string
+layers_high|Layers High|string
+layers_medium|Layers Medium|string
+layers_low|Layers Low|string
+layers_dead|Layers Dead|string
+ride_layersoff|Ride Layers Off|string
+fixed_layers|Fixed Layers|bool
+die_usecurrentlayers|Die Use Current Layers|bool
+layer|Layer|string
+hair_layer_index|Hair Layer Index|string
+
+radius|Radius|string
+miny|Minimum Y|string
+maxy|Maximum Y|string
+scale|Scale|string
+acceleration|Acceleration|string
+hit_points|Hit Points|string
+mass|Mass|string
+
+tag_locator|Tag Locator|string
+helmet_locator|Helment Locator|string
+
+stop_speed|Stop Speed|string
+tiptoe_speed|Tiptoe Speed|string
+walk_speed|Walk Speed|string
+run_speed|Run Speed|string
+backwards_factor|Backwards Factor|string
+
+head_locator|Head Locator|string
+head_joint|Head Joint|string
+
+headrotate|Head Rotate|string
+maxheadturn|Max Head Turn|string
+maxheadtilt|Max Head Tilt|string
+headmovement2|Head Movement 2|bool
+
+cloak_joint|Cloak Joint|string
+
+weapon|Weapon|dropdown|submachinegun,blaster_blue,bowcaster,gun,bentlightsabre,doublelightsabrehandle,lightsabrehandle,pistolchrome,pistolgrey,walkie_talkie,machinegun
+weapon_locator|Weapon Locator|string
+weapon_shoot_locator|Weapon Shoot Locator|string
+weapon_shoot_locator_1|Weapon Shoot Locator 1|string
+weapon_shoot_locator_2|Weapon Shoot Locator 2|string
+
+rocket_frame|Rocket Frame|string
+rocket_locator|Rocket Locator|string
+
+streak_1_locators|Streak 1 Locators|string
+streak|Streak Color|string
+streak_r|Streak R|string
+streak_g|Streak G|string
+streak_b|Streak B|string
+streak_a|Streak A|string
+
+hand_locators|Hand Locators|string
+throw_locator|Throw Locator|string
+
+thingy_locator|Thingy Locator|string
+
+move_delay|Move Delay|string
+lunge_jumpspeed|Lunge Jump Speed|string
+
+idle_speed|Idle Speed|string
+
+jump_speed|Jump Speed|string
+jump_2_speed|Jump 2 Speed|string
+jump_speed_double|Double Jump Speed|string
+
+double_jump_hover|Double Jump Hover|bool
+hover_height|Hover Height|string
+hover_time|Hover Time|string
+
+air_gravity|Air Gravity|string
+water_gravity|Water Gravity|string
+
+slam_jumpspeed|Slam Jump Speed|string
+slam_gravity|Slam Gravity|string
+
+shadow_locators|Shadow Locators|string
+blobshadow_alpha|Blob Shadow Alpha|string
+
+slide_orientation|Slide Orientation|bool
+
+bsa_default|BSA Default|dropdown|on,off

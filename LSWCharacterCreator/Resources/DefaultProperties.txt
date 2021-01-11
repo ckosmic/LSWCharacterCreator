@@ -1,0 +1,2 @@
+formal_name=Cool Trooper
+base_model=STORMTROOPER/STORMTROOPER
