@@ -11,7 +11,7 @@ For previewing your character model in Noesis, download both [Noesis](http://ric
 
 ## Usage
 
-Visit the Wiki to learn how to create a new character, edit its animations, textures, icon, properties, and more.
+Visit the [Wiki](https://github.com/ckosmic/LSWCharacterCreator/wiki) to learn how to create a new character, edit its animations, textures, icon, properties, and more.
 
 ## Building
 
