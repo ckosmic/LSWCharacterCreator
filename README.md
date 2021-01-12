@@ -2,7 +2,8 @@
 
 ![Mando in LEGO Star Wars: The Complete Saga](https://raw.githubusercontent.com/ckosmic/LSWCharacterCreator/master/Images/example1.png)
 
-LSW Character Creator is a tool that lets you quickly and easily create modded characters for LEGO Star Wars: The Complete Saga.  It handles creating the character directory and its files, putting the character information in the collection/language files, and of course allows for editing character properties, animations, sounds, textures, and icons.
+LSW Character Creator is a tool that lets you quickly and easily create modded characters for LEGO Star Wars: The Complete Saga.  It handles creating the character directory and its files, putting the character information in the collection/language files, and of course allows for editing character properties, animations, sounds, textures, and icons. \
+Note that this program is still new and may crash at times.  It probably doesn't help that the whole thing is spaghetti code either, but for the most part, it works great for getting the job done.
 
 ## Installation
 
